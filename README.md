@@ -39,7 +39,7 @@ Clone the repository and get started in seconds.
 
 ```bash
 # Clone the repo
-git clone https://github.com/yourusername/handaconda.git
+git clone https://github.com/Imran-Ashiq/handaconda.git
 
 # Enter the directory
 cd handaconda
