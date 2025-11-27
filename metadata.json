@@ -1,0 +1,7 @@
+{
+  "name": "Handaconda",
+  "description": "A gesture-controlled Snake game using MediaPipe Hands. Control the snake with your index finger!",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
